@@ -1,2 +1,3 @@
+import '../sass/tabler.scss';
 import './bootstrap';
-import 'bootstrap-icons/font/bootstrap-icons.css';
+import './tabler-init';
